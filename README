@@ -1,0 +1,11 @@
+BlinkM by ThinkM
+================
+
+The BlinkM is a family of breakout boards providing convenient scriptability to
+and interaction with a network of RGB LEDs. This is a quick port of the BlinkM
+core library to support the Arduino 1.0 API which has normalized API calls across
+SDKs.
+
+Nota Bene - This variant may diverge from the core library by ThingM over time.
+
+Enjoy! 
